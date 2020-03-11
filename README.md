@@ -1,24 +1,8 @@
-# clock
+# Simple VueJS Clock as WordPress Plugin
 
-## Project setup
+## Description
 ```
-yarn install
+This is a simple WordPress plugin that uses VueJS.
+You can download this and upload to your Plugins Folder and activate it.
+Use [clock][/clock] shortcode to display it on your page.
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
